@@ -1,5 +1,6 @@
 # Risky-Business
 Homework - Unit 11
+Gregory Terrinoni
 
 ## Resampling
 
